@@ -64,5 +64,25 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-NextDNS is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://nextdns.io/
+NextDNS provides a DNS filtering service that protects users from security threats, blocks ads and trackers, and offers parental controls. It offers a public API for managing profiles, analytics, logs, and settings, enabling integration with custom applications and automation.
+
+**Areas:** DNS · Security · Privacy · Filtering · Analytics
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nextdns.io/)
+- [Documentation](https://nextdns.github.io/api/)
+- [API reference](https://nextdns.github.io/api/)
+- [Pricing](https://nextdns.io/pricing)
+- [Support](https://help.nextdns.io)
+- [Terms of service](https://docs.google.com/document/d/1gG2nq9fQ5lOyTlWXo5GIm7kEpcgZxFc22w11qvkLZ0o/preview)
+- [Privacy policy](https://nextdns.io/privacy)
+- [GitHub](https://github.com/nextdns)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/nextdns/](https://apis.io/providers/nextdns/).
